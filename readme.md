@@ -1,6 +1,13 @@
 # Shortly - URL Shortener 🚀
+[signin](https://github.com/mohdShumayl/shortly/blob/main/public/images/readme/shortly-signin.png)
+![signupn](https://github.com/mohdShumayl/shortly/blob/main/public/images/readme/shortly-signup.png)
+![Home](https://github.com/mohdShumayl/shortly/blob/main/public/images/readme/shortly-home.png)
+![shortUrl](https://github.com/mohdShumayl/shortly/blob/main/public/images/readme/shortly-url.png)
+![Analytics](https://github.com/mohdShumayl/shortly/blob/main/public/images/readme/shortly-analytics.png)
 
-A simple and modern **URL Shortener** built with **Node.js, Express, MongoDB, and EJS**.  
+
+
+A simple and modern **URL Shortener** built with **Node.js, Express, EJS, MongoDB, login authentication & authorization**.  
 This project allows users to shorten long URLs, manage their links after login, and experience a sleek modern UI for signup/login.
 
 we must have to login first to use this
